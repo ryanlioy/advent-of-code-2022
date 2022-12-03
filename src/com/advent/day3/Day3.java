@@ -1,4 +1,4 @@
-package advent.daythree;
+package advent.day3;
 
 import java.io.File;
 import java.io.FileNotFoundException;
